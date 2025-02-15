@@ -1,0 +1,150 @@
+
+.margin-left{
+    margin-left: 120px;
+}
+
+.f-gap{
+    gap: 280px;
+}
+
+.top-button{
+    background: #ffffff;
+    border: #8DC63F;
+
+}
+
+*{
+    font-family: popins;
+}
+
+.nav{
+    
+    font-family: popins;
+    font-size: xx-small;
+}
+
+.nav-font{
+    font-family: popins;
+    font-size: 0.8rem;
+}
+
+.green{
+    background-color: #8DC63F;
+    color: #ffffff;
+}
+
+.top-div{
+    
+    background-color: #EEEEEE;
+    height: 45px;
+    width: 100%;    
+}
+
+.nav-items{
+    text-decoration: none;
+    background-color: #ffffff;
+    color: #5e5e5e;
+    font-family: popins;
+    font-size: small;
+}
+
+.nav-boder{
+    border-bottom: 2px solid #EEEEEE;
+}
+.top-line{
+    text-decoration: none;
+    color:  rgb(123, 123, 123) ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small ;
+    font-weight: bold;
+}
+
+.width-button{
+    margin-left: 60px;
+    width: 160px;
+    height: 45px;
+    border: 1px solid #0d6db9;
+    border-radius: 8px;
+    background-color:#0D6DB7;
+    color: #ffffff;
+
+}
+
+.width-button-2{
+    width: 160px;
+    height: 45px;
+    border: 1px solid #9DC63F;
+    border-radius: 8px;
+    background-color:#8DC63F;
+    color: #ffffff;
+}
+
+@font-face {
+    font-family: popins ;
+    src: url(./font/Poppins-Medium.ttf);
+}
+
+strong{
+    color: #8DC63F;
+}
+
+.header{
+    font-family: popins;
+}
+
+.hading{
+    font-family: popins;
+    font-size: x-large;
+}
+
+.pera{
+    font-family: popins;
+    font-size : medium;
+    font-weight: 200; 
+}
+
+.container{
+    margin: 30px 0px;
+}
+
+.bt-3{
+    border:1px solid #d4d4d4;
+    background-color: #ffffff;
+    width: 180px;
+    height: 55px;
+}
+
+.label{
+    width: 290px;
+    height: 55px;
+    border-radius: 8px;
+    color: #EEEEEE;
+}
+
+.input{
+    height: 50px;
+}
+
+.btn{
+    border: 1px solid #d8d8d8;
+    background-color: #ffffff;
+    width: auto;
+    height: 60px;
+    border-radius: 8px;
+}
+
+.container-2{
+    border-radius: 20px;
+    width: auto;
+    height: 120px;
+    background-color: #F0FCDB;
+    margin: 0 auto;
+}
+
+.img-6{
+   background-color: #F0FCDB;
+}
+
+ 
+
+

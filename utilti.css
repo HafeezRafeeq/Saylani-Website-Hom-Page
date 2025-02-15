@@ -1,0 +1,133 @@
+/* Spacing (Margin & Padding) */
+
+.m { margin: 1rem; }
+.mt { margin-top: 0.5rem; }
+.mb { margin-bottom: 0.5rem; }
+.p { padding: 3rem; }
+.px{ padding: 0px 40px;}
+.pt { padding-top: 2.5rem; }
+
+
+.pl-1 {padding-left: 15px; }
+.pl-2 {padding-left: 25px; }
+.pl-3 {padding-left: 35px; }
+.pl-4 {padding-left: 55px; }
+.pl-5 {padding-left: 60px; }
+
+.ml-1 {margin-left: 15px; }
+.ml-2 {margin-left: 25px; }
+.ml-3 {margin-left: 35px; }
+.ml-4 {margin-left: 55px; }
+.ml-5 {margin-left: 60px; }
+
+
+.pr-1 {padding-right: 15px; }
+.pr-2 {padding-right: 25px; }
+.pr-3 {padding-right: 35px; }
+.pr-4 {padding-right: 55px; }
+.pr-5 {padding-right: 60px; }
+
+.mr-1 {margin-right: 15px; }
+.mr-2 {margin-right: 25px; }
+.mr-3 {margin-right: 35px; }
+.mr-4 {margin-right: 55px; }
+.mr-5 {margin-right: 60px; }
+
+.text-center{
+    text-align: center;
+}
+
+
+/* Flexbox & Grid */
+
+.flex { display: flex; }
+.flex-col { flex-direction: column; }
+.flex-row { flex-direction: row; }
+.justify-center { justify-content: center; }
+.items-center { align-items: center; }
+.grid { display: grid; }
+.grid-cols-2 { grid-template-columns: repeat(6, 1fr); }
+
+
+/* Flexbox & Alignment */
+
+.justify-start { justify-content: flex-start; }  
+.justify-center { justify-content: center; }  
+.justify-between { justify-content: space-between; }  
+.items-center { align-items: center; }  
+.items-stretch { align-items: stretch; }  
+
+
+/* Typography */
+
+.text-sm { font-size: 0.875rem; }
+.text-lg { font-size: 1.125rem; }
+.font-bold { font-weight: bold; }
+.text-center { text-align: center; }
+.text-gray-500 { color: #6b7280; }
+
+/* Layout & Display */
+
+.d-flex { display: flex; }  
+.inline-flex { display: inline-flex; }  
+.grid { display: grid; }  
+.hidden { display: none; }  
+.block { display: block; }  
+.inline { display: inline; } 
+
+/* gap */
+.gap0{ gap: 8px;}
+.gap-1{gap: 20px;}
+.gap-2{gap: 30px;}
+.gap-3{gap: 40px;}
+.gap-4{gap: 50px;}
+.gap-5{gap: 60px;}
+.gap-6{gap: 120px;}
+
+.bg-gery{
+    background-color: #EEEEEE;
+}
+
+.img-auto{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.color-gery{
+   color: #EEEEEE;
+}
+
+.bg-green{
+    background-color: #9DC63F;
+}
+
+.bg-blue{
+    background-color: #0d6db9;
+}
+
+.color-green{
+    color: #9DC63F;
+}
+
+.color-blue{
+    color: #0d6db9;
+}
+
+.bg-black{
+    background-color: #424242;
+
+}
+          
+
+
+
+
+
+
+
+
+
+
+.sm:hidden { @media (min-width: 640px) { display: none; } }  
+.md:flex { @media (min-width: 768px) { display: flex; } }  
+.lg:grid { @media (min-width: 1024px) { display: grid; } }  

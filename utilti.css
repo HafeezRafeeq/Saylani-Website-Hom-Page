@@ -1,9 +1,11 @@
 /* Spacing (Margin & Padding) */
 
-.m { margin: 1rem; }
-.mt { margin-top: 0.5rem; }
+.m { margin: 0.1rem; }
+.mt { margin-top: 1.2rem; }
 .mb { margin-bottom: 0.5rem; }
 .p { padding: 3rem; }
+.p-img-4{padding: 2rem; border-radius: 8px;}
+.p-img{padding: 1.8rem 1.3rem; border-radius: 8px;}
 .px{ padding: 0px 40px;}
 .pt { padding-top: 2.5rem; }
 
@@ -96,6 +98,10 @@
 .color-gery{
    color: #EEEEEE;
 }
+
+.bg-gery{
+    background-color: #EEEEEE;
+ }
 
 .bg-green{
     background-color: #9DC63F;

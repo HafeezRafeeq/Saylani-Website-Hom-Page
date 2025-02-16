@@ -95,6 +95,7 @@ strong{
 .hading{
     font-family: popins;
     font-size: x-large;
+    font-weight: 100;
 }
 
 .pera{
@@ -144,6 +145,29 @@ strong{
 .img-6{
    background-color: #F0FCDB;
 }
+
+.img-4{
+    background-color: #EEEEEE;
+ }
+
+ .peragrap{
+    font-size: small;
+    font-weight: 100;
+    color: #5e5e5e;
+ }
+
+ .hading-4{
+    font-size: larger;
+    font-weight: 200;
+    color: #0D6DB7;
+    width: auto;
+ }
+
+ .service-4{
+    border-radius: 50%;
+    padding: 30px;
+    background-color: #ffffff;
+ }
 
  
 

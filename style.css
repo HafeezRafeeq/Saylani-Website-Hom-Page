@@ -137,9 +137,42 @@ strong{
 .container-2{
     border-radius: 20px;
     width: auto;
-    height: 120px;
+    height: auto;
+    padding: 40px 20px;
     background-color: #F0FCDB;
     margin: 0 auto;
+}
+
+.box-1{ 
+    padding: 55px 85px;
+    border-radius: 8px;
+    
+   
+}
+
+.box-2{ 
+    padding: 60px 88px;
+    border-radius : 8px;
+}
+
+.box-3{ 
+    padding: 60px 65px ;
+    border-radius: 8px;
+}
+
+.box-4{ 
+    padding: 60px 70px ;
+    border-radius: 8px;
+}
+
+.box-5{ 
+    padding: 60px 82px;
+    border-radius: 8px;
+}
+
+.box-6{ 
+    padding: 60px 78px;
+    border-radius: 8px;
 }
 
 .img-6{
